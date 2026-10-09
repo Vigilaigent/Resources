@@ -1,0 +1,123 @@
+VIGILAIGENT SOURCE-AVAILABLE SOFTWARE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Vigilaigent. All rights reserved.
+
+1. OWNERSHIP
+
+All original source code, scripts, documentation, and associated
+materials (collectively, the "Software") are owned by Vigilaigent
+and protected by applicable intellectual property laws.
+
+The Software is licensed, not sold. All ownership rights remain
+with Vigilaigent.
+
+2. LICENSE GRANT
+
+Subject to compliance with this License, Vigilaigent grants any
+individual or organization a worldwide, royalty-free, non-exclusive,
+non-transferable, non-sublicensable license to:
+
+(a) Download and execute the Software.
+(b) Use the Software for personal or internal business operations.
+(c) Modify the Software for personal or internal business use.
+(d) Create copies reasonably necessary for internal deployment,
+    testing, maintenance, and backup.
+(e) Use the Software indefinitely, provided the licensee complies
+    with the terms of this License.
+
+Commercial organizations may use the Software internally without
+purchasing a separate license.
+
+3. RESTRICTIONS
+
+Without prior written authorization from Vigilaigent, licensees
+may not:
+
+(a) Sell, resell, sublicense, rent, or lease the Software.
+(b) Redistribute or republish the Software or modified versions
+    outside their organization.
+(c) Incorporate the Software into products or services offered
+    commercially to third parties.
+(d) Package or market the Software as part of a competing
+    commercial product or service.
+(e) Remove or alter copyright notices or licensing information.
+(f) Claim ownership of the original Software.
+(g) Publish modified versions or derivative works in public
+    repositories.
+
+4. MODIFICATIONS
+
+Licensees may modify the Software for personal or internal
+business purposes.
+
+Modifications incorporating the original Software remain subject
+to this License.
+
+Ownership of the original Software remains with Vigilaigent.
+This License does not claim ownership of independently developed
+code that does not incorporate Vigilaigent's copyrighted material.
+
+Vigilaigent is not obligated to support modified versions.
+
+5. THIRD-PARTY COMPONENTS
+
+Third-party software, libraries, and components remain subject
+to their respective licenses.
+
+This License does not supersede applicable third-party licensing
+requirements.
+
+6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+VIGILAIGENT MAKES NO GUARANTEES REGARDING THE SOFTWARE'S
+RELIABILITY, SECURITY, PERFORMANCE, OR FITNESS FOR ANY
+PARTICULAR PURPOSE.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, VIGILAIGENT SHALL NOT
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+OR PUNITIVE DAMAGES ARISING FROM THE USE OR INABILITY TO USE
+THE SOFTWARE.
+
+8. TERMINATION
+
+The rights granted under this License automatically terminate
+if the licensee materially violates its terms and fails to
+remedy the violation within thirty (30) days after receiving
+written notice from Vigilaigent.
+
+Upon termination, the licensee must cease using the Software
+and delete all copies, except where retention is required by law.
+
+9. RESERVATION OF RIGHTS
+
+All rights not expressly granted are reserved by Vigilaigent.
+
+Public availability of the Software does not grant permission
+for activities prohibited by this License.
+
+10. SEPARATE AGREEMENTS
+
+Vigilaigent may grant additional permissions through separate
+written agreements.
+
+Where a separate written agreement expressly supersedes this
+License, that agreement controls.
+
+11. GITHUB PLATFORM RIGHTS
+
+Nothing in this License is intended to restrict rights granted
+under GitHub's applicable Terms of Service for viewing or
+forking public repositories through GitHub's platform.
+
+Such platform rights do not independently authorize use,
+redistribution, or commercialization beyond the permissions
+expressly granted by this License.
+
+END OF LICENSE
